@@ -1,4 +1,4 @@
 production:
-  server: "//damp-basin-34021.herokuapp.com/faye"
+  server: "//heimdallmead.herokuapp.com/faye"
   secret_token: "mead"
   signature_expiration: 3600 # one hour
