@@ -1,4 +1,4 @@
 production:
-  server: "http://heimdallmead.herokuapp.com/faye"
+  server: "//heimdallmead.herokuapp.com/faye"
   secret_token: "mead"
   signature_expiration: 3600 # one hour
